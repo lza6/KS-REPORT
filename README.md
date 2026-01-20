@@ -1,4 +1,3 @@
-<![CDATA[<div align="center">
 
 # ⚡ KS-REPORT | 快手举报执法系统 ⚡
 
